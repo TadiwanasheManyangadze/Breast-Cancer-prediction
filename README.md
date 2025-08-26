@@ -11,7 +11,6 @@ This project leverages the **Breast Cancer Wisconsin dataset** from scikit-learn
 - 🏗️ Neural Network with one hidden layer (64 neurons, ReLU)
 - 🎯 Binary classification with **Sigmoid activation**
 - 📉 Loss: Binary Cross Entropy (BCELoss)
-- 🔥 Optimizer: Adam
 - 📈 Achieves high accuracy on test data
 
 ---
